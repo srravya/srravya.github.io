@@ -1,5 +1,3 @@
-# ET-Jekyll
-A minimal Jekyll theme inspired by <a href="https://github.com/edwardtufte/tufte-css">Tufte CSS</a>
+# Welcome
+A minimal Jekyll theme profile website, based on the <a href="https://github.com/bradleytaunt/ET-Jekyll">ET Jekyll</a> theme 
 
-### Live Demo
-A live demo with detailed instructions can be found <a href="https://et-jekyll.netlify.com/et-jekyll-theme/">here</a>.
