@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: default
 title: Research
 description: A selected list of my research
 ---

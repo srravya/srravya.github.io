@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: default
 title: CV
 description: Srravya Chandhiramowuli's CV
 ---
