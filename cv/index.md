@@ -4,7 +4,7 @@ title: CV
 description: Srravya Chandhiramowuli's CV
 ---
 
-<p>CV.</p>
+<p>CV TBD</p>
 
 <object type="application/pdf"
         data="pdf/Srravya_academic_cv.pdf" 
