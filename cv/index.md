@@ -4,7 +4,7 @@ title: CV
 description: Srravya Chandhiramowuli's CV
 ---
 
-<p><a href="Srravya_academic_cv.pdf">Download CV</a></p>
+<p><a href="Srravya_academic_cv.pdf">Srravya Chandhiramowuli (updated October 2022)</a></p>
 
 <object type="application/pdf"
         data="Srravya_academic_cv.pdf"
