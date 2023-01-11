@@ -8,8 +8,8 @@ description: A selected list of my research
 ### Peer-reviewed conference publications
 
  - Chandhiramowuli, S., & Chaudhuri, B. (accepted, 2023). “Match made by humans: A critical enquiry into human-machine configurations in data labelling.” In IEEE Proceedings of the 56th Hawaii International Conference on System Sciences (HICSS), Hawaii.
- - Chandhiramowuli, S., & Chaudhuri, B. (2021). “Politics of Data in & as News: A Data Justice Perspective.” AMCIS 2021 Proceedings. 13.  https://aisel.aisnet.org/amcis2021/global_develop/global_develop/13
- - Taduri, P., Chandhiramowuli, S., & Prakash, A. (2020, March). “ICT and Interactivity in the Classroom: A Case Study of an ICT Intervention in Indian Rural Public Schools.” In the International Development Informatics Association Conference (pp. 17-30). Springer, Cham. https://doi.org/10.1007/978-3-030-52014-4_2
+ - Chandhiramowuli, S., & Chaudhuri, B. (2021). “Politics of Data in & as News: A Data Justice Perspective.” AMCIS 2021 Proceedings. 13. [link](https://aisel.aisnet.org/amcis2021/global_develop/global_develop/13)
+ - Taduri, P., Chandhiramowuli, S., & Prakash, A. (2020, March). “ICT and Interactivity in the Classroom: A Case Study of an ICT Intervention in Indian Rural Public Schools.” In the International Development Informatics Association Conference (pp. 17-30). Springer, Cham. [link](https://doi.org/10.1007/978-3-030-52014-4_2)
 
 ### Book chapters
 
@@ -17,9 +17,9 @@ description: A selected list of my research
 
 ### Policy Briefs & Reports
 
- - Das, K., & Chandhiramowuli, S. (2021). Locating Migrants in India’s Gig Economy: A Scoping Report. The Centre for Internet and Society. Bengaluru.  https://cis-india.org/raw/locating-migrants-in-indias-gig-economy-a-scoping-report
- - Das, K., & Chandhiramowuli, S. (2021). Caught between the platform and the pandemic: Locating migrants in India’s gig economy. In Futures of Work, Bristol University Press.  https://futuresofwork.co.uk/2021/03/16/caught-between-the-platform-and-the-pandemic-locating- migrants-in-indias-gig-economy/
- - Chandhiramowuli, S. (2019) authored ‘ICT in Education’ chapter in the UN APCICT - ESCAP publication titled ‘Brief on ICT Trends’ https://www.unapcict.org/sites/default/files/inline-files/ICT%20TRENDS_%20ICT%20for%20Education.pdf
+ - Das, K., & Chandhiramowuli, S. (2021). Locating Migrants in India’s Gig Economy: A Scoping Report. The Centre for Internet and Society. Bengaluru. [link](https://cis-india.org/raw/locating-migrants-in-indias-gig-economy-a-scoping-report)
+ - Das, K., & Chandhiramowuli, S. (2021). Caught between the platform and the pandemic: Locating migrants in India’s gig economy. In Futures of Work, Bristol University Press. [link](https://futuresofwork.co.uk/2021/03/16/caught-between-the-platform-and-the-pandemic-locating- migrants-in-indias-gig-economy/)
+ - Chandhiramowuli, S. (2019) authored ‘ICT in Education’ chapter in the UN APCICT - ESCAP publication titled ‘Brief on ICT Trends’ [link](https://www.unapcict.org/sites/default/files/inline-files/ICT%20TRENDS_%20ICT%20for%20Education.pdf)
 
 ### Presentations & Workshops
 
