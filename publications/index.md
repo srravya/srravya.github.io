@@ -10,7 +10,7 @@ description: A selected list of my research
 Making data work count<br>
 Srravya Chandhiramowuli, Alex Taylor, Sara Heitlinger, Ding Wang<br>
 CSCW 2024 | ACM Conference on Computer Supported Cooperative Work and Social Computing<br>
-[🔗preprint](https://arxiv.org/abs/2311.18046)
+<a class=linkpill href="https://arxiv.org/abs/2311.18046">🔗preprint</a>
 	
 <button clas=infopill>forthcoming</button><br>
 Tracing The Displacement of Data Work in AI: A Political Economy of ‘Human-in-the-loop’<br>
