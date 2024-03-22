@@ -146,6 +146,32 @@ img {
     filter: drop-shadow(3px 3px 5px #808080);
 }
 
+.infopill {
+  background-color: #aaa;
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.goldpill {
+  background-color: #ffd700;
+  border: none;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
 /**************************************
     $DEFAULT ELEMENTS
 /**************************************/
