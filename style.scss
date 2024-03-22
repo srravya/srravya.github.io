@@ -96,6 +96,22 @@ a,a:visited {
     }
 }
 
+a.linkpill:link,a.linkpill:visited {
+  color: #000;
+  background-color: #fff;
+  border: solid thick #000;
+  border-radius: 5px;
+  outline: solid thick #000;    
+}
+
+a.linkpill:hover,a.linkpill:focus, a.linkpill:active {
+  color: #fff;
+  background-color: #000;
+  border: solid thick #000;
+  border-radius: 5px;
+  outline: solid thick #000;    
+}
+
 blockquote {
     font-style: italic;
     margin: 0;
@@ -161,16 +177,9 @@ img {
 
 .goldpill {
   background-color: #ffd700;
-  border: none;
   color: black;
-  padding: 5px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 5px;
 }
+
 
 /**************************************
     $DEFAULT ELEMENTS
