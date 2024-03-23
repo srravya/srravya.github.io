@@ -35,9 +35,8 @@ IDIA 2020 | International Development Informatics Association Conference<br>
 
 ## Book chapter  
 
-<button clas=infopill>⚖ equal authorship</button><br>
 Precarious Disruption: Revisiting Worker Control and Consent in the Age of Algorithms and Apps<br>
-Srravya Chandhiramowuli, Janaki Srinivasan and Pradyumna Taduri.<br>
+Srravya Chandhiramowuli, Janaki Srinivasan and Pradyumna Taduri.<sup>[⚖]</sup><br>
 Handbook of Global Social Theory. Sage Publications. 2024.
 
 ## Reports, reviews, commentary   
@@ -52,15 +51,13 @@ Srravya Chandhiramowuli<br>
 2023 (May-June issue) | ACM Interactions magazine<br>
 <a class=linkpill href="https://interactions.acm.org/archive/view/may-june-2023/srravya-chandhiramowuli">🔗 link</a>
 
-<button clas=infopill>⚖ equal authorship</button><br>
 Between the platform and the pandemic: Locating migrants in India’s gig economy.<br>
-Kaarika Das, Srravya Chandhiramowuli<br>
+Kaarika Das, Srravya Chandhiramowuli<sup>[⚖]</sup><br>
 2021 | Futures of Work blog, Bristol University Press<br>
 <a class=linkpill href="https://futuresofwork.co.uk/2021/03/16/caught-between-the-platform-and-the-pandemic-locating-migrants-in-indias-gig-economy/">🔗 link</a>
 
-<button clas=infopill>⚖ equal authorship</button><br>
 Locating Migrants in India’s Gig Economy: A Scoping Report<br>
-Kaarika Das, Srravya Chandhiramowuli<br>
+Kaarika Das, Srravya Chandhiramowuli<sup>[⚖]</sup><br>
 2021 | The Centre for Internet and Society<br>
 <a class=linkpill href="https://cis-india.org/raw/locating-migrants-in-indias-gig-economy-a-scoping-report">🔗 link</a>
 
