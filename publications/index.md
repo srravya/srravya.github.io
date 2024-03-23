@@ -6,13 +6,13 @@ description: A selected list of my research
 
 ## Peer-reviewed publications
 
-<button clas=infopill>forthcoming</button><br>
+<button clas=infopill>⌛ forthcoming</button><br>
 Making data work count<br>
 Srravya Chandhiramowuli, Alex Taylor, Sara Heitlinger, Ding Wang<br>
 CSCW 2024 | ACM Conference on Computer Supported Cooperative Work and Social Computing<br>
 <a class=linkpill href="https://arxiv.org/abs/2311.18046">🗎 PREPRINT</a>
 	
-<button clas=infopill>forthcoming</button><br>
+<button clas=infopill>⌛ forthcoming</button><br>
 Tracing The Displacement of Data Work in AI: A Political Economy of ‘Human-in-the-loop’<br>
 Bidisha Chaudhuri, Srravya Chandhiramowuli<br>
 ESTS | Engaging Science, Technology, and Society
@@ -41,7 +41,7 @@ Handbook of Global Social Theory. Sage Publications. 2024.
 
 ## Reports, reviews, commentary   
 
-<button clas=infopill>forthcoming</button><br>
+<button clas=infopill>⌛ forthcoming</button><br>
 Book Review of The Political Lives of Information: Information and the Production of Development in India by Janaki Srinivasan<br>
 Srravya Chandhiramowuli<br>
 2024 | Information & Culture journal<br>
