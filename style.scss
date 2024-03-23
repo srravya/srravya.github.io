@@ -139,9 +139,11 @@ p,table,blockquote,pre,img,hr,.mini-note,ul li,ol li {
     box-sizing: border-box;
     max-width: 55%;
 }
+
 .MathJax_SVG_Display {
     max-width: 55% !important;
 }
+
 li ul li, li ol li {
     max-width: 100%;
 }
@@ -168,8 +170,14 @@ a.linkpill:link,a.linkpill:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-}
 
+  &:hover,&:focus,&:active {
+    color: #fff;
+    background-color: #333;
+  }
+
+}
+/*
 a.linkpill:hover,a.linkpill:focus, a.linkpill:active {
   font-family: sans-serif, monospace;
   color: #fff;
@@ -181,6 +189,7 @@ a.linkpill:hover,a.linkpill:focus, a.linkpill:active {
   text-decoration: none;
   display: inline-block;
 }
+*/
 
 blockquote {
     font-style: italic;
