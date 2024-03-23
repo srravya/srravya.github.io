@@ -11,27 +11,48 @@ Making data work count<br>
 Srravya Chandhiramowuli, Alex Taylor, Sara Heitlinger, Ding Wang<br>
 CSCW 2024 | ACM Conference on Computer Supported Cooperative Work and Social Computing<br>
 <a class=linkpill href="https://arxiv.org/abs/2311.18046">🗎 PREPRINT</a>
+<details>
+  <summary>Abstract</summary>
+  TBD
+</details>
 	
 <button clas=infopill>⌛ forthcoming</button><br>
 Tracing The Displacement of Data Work in AI: A Political Economy of ‘Human-in-the-loop’<br>
 Bidisha Chaudhuri, Srravya Chandhiramowuli<br>
 ESTS | Engaging Science, Technology, and Society
+<details>
+  <summary>Abstract</summary>
+  TBD
+</details>
 
 <button clas=infopill>🏆 Best Paper Award</button><br>
 Match made by humans: A critical enquiry into human-machine configurations in data labelling<br>
 Srravya Chandhiramowuli, Bidisha Chaudhuri<br>
 HICSS 2023 | Hawaii International Conference on System Sciences<br>
 <a class=linkpill href="https://hdl.handle.net/10125/102882">🔗 link</a>
+<details>
+  <summary>Abstract</summary>
+  TBD
+</details>
+
 
 Politics of Data in & as News: A Data Justice Perspective<br>
 Srravya Chandhiramowuli, Bidisha Chaudhuri<br>
 AMCIS 2021 | Americas Conference on Information Systems<br>
 <a class=linkpill href="https://aisel.aisnet.org/amcis2021/global_develop/global_develop/13">🔗 link</a>
+<details>
+  <summary>Abstract</summary>
+  TBD
+</details>
 
 ICT and Interactivity in the Classroom: A Case Study of an ICT Intervention in Indian Rural Public Schools<br>
 Pradyumna Taduri, Srravya Chandhiramowuli, Amit Prakash<br>
 IDIA 2020 | International Development Informatics Association Conference<br>
 <a class=linkpill href="https://doi.org/10.1007/978-3-030-52014-4_2">🔗 link</a>
+<details>
+  <summary>Abstract</summary>
+  TBD
+</details>
 
 ## Book chapter  
 
