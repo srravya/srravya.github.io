@@ -247,13 +247,13 @@ img {
 }
 
 .entry-publication,.entry-report,.entry-bookreview {
-  font: 1em "Inter", sans-serif;
-  border-left: solid thick blue;
-  line-height: 50%;
+  font: 22px "Inter", sans-serif;
+  border-left: solid thick navy;
+  padding-left: 10px;
+  margin-bottom: 10px;
 }
 
 .what {
-  font: 22px "Inter", sans-serif;
   line-height: 50%;
   font-weight: 500;
 }
@@ -265,13 +265,12 @@ img {
 }
 
 .what {
-  font: 22px "Inter", sans-serif;
   line-height: 100%;
   font-weight: 300;
 }
 
 .lookatme {
-  font-weight: 500;
+  font-weight: 300;
 }
 
 /**************************************
