@@ -66,7 +66,7 @@ Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
 
 <div class="entry-bookchapter">
 <p class="what">Precarious Disruption: Revisiting Worker Control and Consent in the Age of Algorithms and Apps</p>
-<p class="who"><span class="lookatme">Srravya Chandhiramowuli</span>, Janaki Srinivasan and Pradyumna Taduri<a href="#equalauthorship"><sup>[⚖]</sup></a></p>
+<p class="who"><span class="lookatme">Srravya Chandhiramowuli</span>, Janaki Srinivasan and Pradyumna Taduri <a href="#equalauthorship"><sup>[⚖]</sup></a></p>
 <p class="where">Handbook of Global Social Theory. Sage Publications. 2024.</p>
 </div>
 
@@ -92,7 +92,7 @@ Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
 
 <div class="entry-report">
 <p class="what">Between the platform and the pandemic: Locating migrants in India’s gig economy.</p>
-<p class="who">Kaarika Das, <span class="lookatme">Srravya Chandhiramowuli</span><a href="#equalauthorship"><sup>[⚖]</sup></a></p>
+<p class="who">Kaarika Das, <span class="lookatme">Srravya Chandhiramowuli</span> <a href="#equalauthorship"><sup>[⚖]</sup></a></p>
 <p class="where">2021 | Futures of Work blog, Bristol University Press</p>
 <section>
 <a class=linkpill href="https://futuresofwork.co.uk/2021/03/16/caught-between-the-platform-and-the-pandemic-locating-migrants-in-indias-gig-economy/">🔗 link</a>
@@ -101,7 +101,7 @@ Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
 
 <div class="entry-report">
 <p class="what">Locating Migrants in India’s Gig Economy: A Scoping Report</p>
-<p class="who">Kaarika Das, <span class="lookatme">Srravya Chandhiramowuli</span><a href="#equalauthorship"><sup>[⚖]</sup></a></p>
+<p class="who">Kaarika Das, <span class="lookatme">Srravya Chandhiramowuli</span> <a href="#equalauthorship"><sup>[⚖]</sup></a></p>
 <p class="where">2021 | The Centre for Internet and Society</p>
 <section>
 <a class=linkpill href="https://cis-india.org/raw/locating-migrants-in-indias-gig-economy-a-scoping-report">🔗 link</a>
