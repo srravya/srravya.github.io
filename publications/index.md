@@ -1,13 +1,8 @@
 ---
-layout: default
+layout: custom
 title: Publications
 description: A selected list of my research
 ---
-
-<header>
-<p>
-Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
-</header>
 
 ## Peer-reviewed publications
 
@@ -66,7 +61,7 @@ Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
 
 <div class="entry-bookchapter">
 <p class="what"><a href="https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-global-sociology/book277822" target="_blank">Precarious Disruption: Revisiting Worker Control and Consent in the Age of Algorithms and Apps</a></p>
-<p class="who"><span class="lookatme">Srravya Chandhiramowuli</span>, Janaki Srinivasan and Pradyumna Taduri <a href="#equalauthorship"><sup>[⚖]</sup></a></p>
+<p class="who"><span class="lookatme">Srravya Chandhiramowuli*</span>, Janaki Srinivasan* and Pradyumna Taduri*</p>
 <p class="where">Handbook of Global Social Theory. Sage Publications. 2024.</p>
 </div>
 
@@ -92,7 +87,7 @@ Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
 
 <div class="entry-report">
 <p class="what">Between the platform and the pandemic: Locating migrants in India’s gig economy.</p>
-<p class="who">Kaarika Das, <span class="lookatme">Srravya Chandhiramowuli</span> <a href="#equalauthorship"><sup>[⚖]</sup></a></p>
+<p class="who">Kaarika Das*, <span class="lookatme">Srravya Chandhiramowuli*</span></p>
 <p class="where">2021 | Futures of Work blog, Bristol University Press</p>
 <section>
 <a class=linkpill href="https://futuresofwork.co.uk/2021/03/16/caught-between-the-platform-and-the-pandemic-locating-migrants-in-indias-gig-economy/">🔗 link</a>
@@ -101,7 +96,7 @@ Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
 
 <div class="entry-report">
 <p class="what">Locating Migrants in India’s Gig Economy: A Scoping Report</p>
-<p class="who">Kaarika Das, <span class="lookatme">Srravya Chandhiramowuli</span> <a href="#equalauthorship"><sup>[⚖]</sup></a></p>
+<p class="who">Kaarika Das*, <span class="lookatme">Srravya Chandhiramowuli*</span></p>
 <p class="where">2021 | The Centre for Internet and Society</p>
 <section>
 <a class=linkpill href="https://cis-india.org/raw/locating-migrants-in-indias-gig-economy-a-scoping-report">🔗 link</a>
@@ -116,7 +111,3 @@ Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
 <a class=linkpill href="https://www.unapcict.org/sites/default/files/inline-files/ICT%20TRENDS_%20ICT%20for%20Education.pdf">🔗 link</a>
 </section>
 </div>
-
-<footer>
-<p id="equalauthorship">⚖ = equal authorship</p>
-</footer>
