@@ -175,7 +175,6 @@ a.linkpill:link,a.linkpill:visited {
     color: #fff;
     background-color: #333;
   }
-
 }
 
 blockquote {
@@ -247,30 +246,11 @@ img {
   color: black;
 }
 
-details {
-  border: 1px solid #aaa;
-  border-radius: 4px;
-  padding: 0.5em 0.5em 0;
-  width: 100px;
+.entry-publication,.entry-report,.entry-bookreview {
+  font: 1em "Inter", sans-serif;
+  border-left: thick blue;
 }
 
-summary {
-  font-weight: bold;
-  margin: -0.5em -0.5em 0;
-  padding: 0.5em;
-  width: 100px;
-}
-
-details[open] {
-  padding: 0.5em;
-  width: 250px;
-}
-
-details[open] summary {
-  border-bottom: 1px solid #aaa;
-  margin-bottom: 0.5em;
-  width: 250px;
-}
 
 /**************************************
     $DEFAULT ELEMENTS
