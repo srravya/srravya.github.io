@@ -31,7 +31,7 @@ description: A selected list of my research
 <p class="what">ICT and Interactivity in the Classroom: A Case Study of an ICT Intervention in Indian Rural Public Schools</p>
 <p class="who">Pradyumna Taduri, Srravya Chandhiramowuli, Amit Prakash</p>
 <p class="where">IDIA 2020 | International Development Informatics Association Conference</p>
-<a class=linkpill href="https://doi.org/10.1007/978-3-030-52014-4_2">🔗 link</p>
+<a class=linkpill href="https://doi.org/10.1007/978-3-030-52014-4_2">🔗 link</a>
 
 ## Book chapter
 
