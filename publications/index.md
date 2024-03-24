@@ -4,6 +4,11 @@ title: Publications
 description: A selected list of my research
 ---
 
+<header>
+<p>
+Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
+</header>
+
 ## Peer-reviewed publications
 
 <section>
