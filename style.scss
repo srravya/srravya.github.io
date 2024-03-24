@@ -248,9 +248,31 @@ img {
 
 .entry-publication,.entry-report,.entry-bookreview {
   font: 1em "Inter", sans-serif;
-  border-left: thick blue;
+  border-left: solid thick blue;
+  line-height: 50%;
 }
 
+.what {
+  font: 22px "Inter", sans-serif;
+  line-height: 50%;
+  font-weight: 500;
+}
+
+.who {
+  font: 16px "Inter", sans-serif;
+  line-height: 100%;
+  font-weight: 200;
+}
+
+.what {
+  font: 22px "Inter", sans-serif;
+  line-height: 100%;
+  font-weight: 300;
+}
+
+.lookatme {
+  font-weight: 500;
+}
 
 /**************************************
     $DEFAULT ELEMENTS
