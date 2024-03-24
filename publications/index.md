@@ -10,7 +10,7 @@ description: A selected list of my research
 <section>
 <button clas=infopill>⌛ forthcoming</button>
 </section>
-<p class="what"><a href="https://arxiv.org/abs/2311.18046">Making data work count</a></p>
+<p class="what"><a href="https://arxiv.org/abs/2311.18046">Making data work count</a> <span class="preprint">[🌐 Preprint]</span></p>
 <p class="who"><span class="lookatme">Srravya Chandhiramowuli</span>, Alex Taylor, Sara Heitlinger, Ding Wang</p>
 <p class="where">CSCW 2024 | ACM Conference on Computer Supported Cooperative Work and Social Computing</p>
 </div>
