@@ -102,7 +102,7 @@ Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
 <div class="entry-report">
 <p class="what">Locating Migrants in India’s Gig Economy: A Scoping Report</p>
 <p class="who">Kaarika Das, <span class="lookatme">Srravya Chandhiramowuli</span><a href="#equalauthorship"><sup>[⚖]</sup></a></p>
-<p class="where">2021 | The Centre for Internet and Society<br>
+<p class="where">2021 | The Centre for Internet and Society</p>
 <section>
 <a class=linkpill href="https://cis-india.org/raw/locating-migrants-in-indias-gig-economy-a-scoping-report">🔗 link</a>
 </section>
