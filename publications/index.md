@@ -17,7 +17,7 @@ description: A selected list of my research
 <p class="who">Bidisha Chaudhuri, Srravya Chandhiramowuli</p>
 <p class="where">ESTS | Engaging Science, Technology, and Society</p>
 
-<button clas=infopill>🏆 Best Paper Award</button></p>
+<button clas=infopill>🏆 Best Paper Award</button>
 <p class="what">Match made by humans: A critical enquiry into human-machine configurations in data labelling</p>
 <p class="who">Srravya Chandhiramowuli, Bidisha Chaudhuri</p>
 <p class="where">HICSS 2023 | Hawaii International Conference on System Sciences</p>
@@ -41,7 +41,7 @@ description: A selected list of my research
 
 ## Reports, reviews, commentary   
 
-<button clas=infopill>⌛ forthcoming</button></p>
+<button clas=infopill>⌛ forthcoming</button>
 <p class="what">Book Review of The Political Lives of Information: Information and the Production of Development in India by Janaki Srinivasan</p>
 <p class="who">Srravya Chandhiramowuli</p>
 <p class="where">2024 | Information & Culture journal</p>
