@@ -65,7 +65,7 @@ Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
 ## Book chapter
 
 <div class="entry-bookchapter">
-<p class="what">Precarious Disruption: Revisiting Worker Control and Consent in the Age of Algorithms and Apps</p>
+<p class="what"><a href="https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-global-sociology/book277822" target="_blank">Precarious Disruption: Revisiting Worker Control and Consent in the Age of Algorithms and Apps</a></p>
 <p class="who"><span class="lookatme">Srravya Chandhiramowuli</span>, Janaki Srinivasan and Pradyumna Taduri <a href="#equalauthorship"><sup>[⚖]</sup></a></p>
 <p class="where">Handbook of Global Social Theory. Sage Publications. 2024.</p>
 </div>
