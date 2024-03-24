@@ -218,15 +218,10 @@ img {
   padding: 5px 10px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
-  margin: 2px;
+  display: block flow;
+  margin: auto;
   cursor: default;
   border-radius: 5px;
-}
-
-.goldpill {
-  background-color: #ffd700;
-  color: black;
 }
 
 .entry-publication,.entry-report,.entry-bookreview,.entry-bookchapter {
@@ -257,7 +252,7 @@ img {
   font: 8px "Inter", sans-serif;
   font-weight: 500;
   border: solid thin #000;
-  padding: 5px;
+  padding: 2px;
 }
 
 /**************************************
