@@ -165,7 +165,7 @@ a.linkpill:link,a.linkpill:visited {
   color: #000;
   padding: 2px 10px;
   background-color: #fff;
-  border-bottom: solid thick #333;
+  border-bottom: solid thin #333;
   border-radius: 2px;
   text-align: center;
   text-decoration: none;
@@ -177,19 +177,6 @@ a.linkpill:link,a.linkpill:visited {
   }
 
 }
-/*
-a.linkpill:hover,a.linkpill:focus, a.linkpill:active {
-  font-family: sans-serif, monospace;
-  color: #fff;
-  padding: 2px 10px;
-  background-color: #333;
-  border: solid #333;
-  border-radius: 2px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-*/
 
 blockquote {
     font-style: italic;
