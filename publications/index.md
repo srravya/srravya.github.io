@@ -53,7 +53,6 @@ Last updated on <time datetime="2024-03-24">24 Mar 2024</time></p>
 </section>
 </div>
 
-<div>
 <div class="entry-publication">
 <p class="what">ICT and Interactivity in the Classroom: A Case Study of an ICT Intervention in Indian Rural Public Schools</p>
 <p class="who">Pradyumna Taduri, <span class="lookatme">Srravya Chandhiramowuli</span>, Amit Prakash</p>
