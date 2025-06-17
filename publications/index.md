@@ -8,18 +8,15 @@ description: A selected list of my research
 
 <div class="entry-publication">
 <section>
-<button clas=infopill>⌛ forthcoming</button>
+<button clas=infopill>🏆 Honourable Mention Award</button>
 </section>
-<p class="what"><a href="https://arxiv.org/abs/2311.18046">Making data work count</a> <span class="preprint">🌐 Preprint</span></p>
+<p class="what"><a href="https://dl.acm.org/doi/10.1145/3637367">Making data work count</a></p>
 <p class="who"><span class="lookatme">Srravya Chandhiramowuli</span>, Alex Taylor, Sara Heitlinger, Ding Wang</p>
 <p class="where">CSCW <time datetime="2024">2024</time> | ACM Conference on Computer Supported Cooperative Work and Social Computing</p>
 </div>
 
 <div class="entry-publication">
-<section>
-<button clas=infopill>⌛ forthcoming</button>
-</section>
-<p class="what">Tracing The Displacement of Data Work in AI: A Political Economy of ‘Human-in-the-loop’</p>
+<p class="what"><a href="https://estsjournal.org/index.php/ests/article/view/2983">Tracing The Displacement of Data Work in AI: A Political Economy of ‘Human-in-the-loop’</a></p>
 <p class="who">Bidisha Chaudhuri, <span class="lookatme">Srravya Chandhiramowuli</span></p>
 <p class="where">ESTS | Engaging Science, Technology, and Society</p>
 </div>
